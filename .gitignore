@@ -143,3 +143,5 @@ gradle-app.setting
 **/build/
 
 # End of https://www.toptal.com/developers/gitignore/api/intellij+all,java,gradle
+
+!BON-2.4.0.CUSTOM-all.jar
